@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as o,o as c}from"#entry";const r={},n={class:"p-10"};function a(l,e){return c(),s("div",n,[...e[0]||(e[0]=[o("h1",{class:"text-2xl font-bold text-green-600"},"Hello Nuxt Service 4 🚀",-1)])])}const d=t(r,[["render",a]]);export{d as default};
